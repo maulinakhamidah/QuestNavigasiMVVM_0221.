@@ -1,4 +1,10 @@
 <resources>
-
+    <string name="app_name">prak6PAM</string>
+    <string name="submit"></string>
+    <string name="back"></string>
+    <string name="nama_lengkap"></string>
+    <string name="jenis_kelamin"></string>
+    <string name="alamat"></string>
+    <string name="tampil">Tampilan Data</string>
     <string name="home"> From Isian</string>
 </resources>
